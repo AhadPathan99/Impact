@@ -1,0 +1,366 @@
+.main{
+	background-color:#008374;
+padding:0 0 200px 0;	
+}
+
+.white{
+	color:#fff
+}
+
+.left-side h2{
+	margin-top:18px;
+	color:#fff;
+	font-family:arial;
+}
+
+.left-side span{
+	color:#e62605;
+	font-size:40px;
+}
+
+.right-side li{
+display:inline-block;
+margin:15px 0 0 0;
+
+}
+
+.right-side li a{
+	color:#fff;
+}
+
+.welcome h1{
+	color:#fff;
+	margin-top:8rem;
+	font-size:55px;
+}
+
+.welcome p{
+	color:#ffffff8f;
+	font-size:19px;
+}
+
+.get a{
+	color:#fff;
+	border:solid 2px #ffffff1f;
+	font-size:16px;
+	background:#ffffff1f;
+	padding:8px 30px;
+	margin:5px 0 0 0;
+	border-radius:20px;
+}
+
+.start i{
+	border-radius:50%;
+	text-align:center;
+	color:#fff;
+	font-size:32px;
+	padding:5px 8px;
+	margin:8px 0 0 0px;
+}
+
+.start h5{
+	border-radius:50%;
+	text-align:center;
+	color:#fff;
+	font-size:16px;
+	padding:10px 10px 6px 10px;
+	margin:10px 0 0 -10px;
+}
+
+.lorem{
+	margin:-125
+	px 0 0 0;
+}
+
+.hero-img{
+	margin:50px 0 0 0;
+}
+
+.box{
+	background:#00796b;
+	text-align:center;
+	padding:70px 0;
+	margin:-120px 0 0 0;
+	border-radius:5px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.box-1{
+	background:#00796b;
+	text-align:center;
+	margin:-120px 0 0 0;
+	padding:52px 0;
+	border-radius:5px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.box-1 i{
+	font-size:40px;
+	color:#fff;
+}
+
+.box-1 h2{
+	margin-top:15px;
+	font-size:30px;
+	color:#fff;
+	font-weight:600;
+}
+
+.box i{
+	font-size:40px;
+	color:#fff;
+}
+
+.box h2{
+	margin-top:15px;
+	font-size:30px;
+	color:#fff;
+	font-weight:600;
+}
+
+.about p{
+	font-size:18px;
+}
+
+.img-rounded{
+	border-radius:15px;
+}
+
+.comunity{
+	font-size:16px;
+	color:#000;
+	font-weight:600;
+}
+
+.check{
+	font-size:25px;
+	color:#438a6e;
+}
+
+.check-1{
+	font-size:25px;
+	color:#438a6e;
+	margin:0 0 15px 0;
+}
+
+.commodo {
+	color:#000;
+	font-size:16px;
+	font-weight:500;
+}
+
+.Contrary {
+	color:#000;
+	margin:0 0 0 30px;
+	font-size:16px;
+	font-weight:500;
+}
+
+.myob{
+	margin:100px 0 0 0;
+}
+
+.client{
+	width:60%;
+}
+
+.mybo{
+	margin:0 0 0 20px;
+}
+
+.old{
+margin:0 0 0 50px;	
+}
+
+.lily{
+margin:0 0 0 30px;	
+}
+.citr{
+margin:0 0 0 55px;	
+}
+
+.trusty{
+margin:0 0 0 60px;	
+}
+
+.SSTK-Blog{
+	margin:80px 0;
+}
+
+.call{
+	padding:0 0 50px 0;
+}
+
+.happy{
+	color:#438a6e;
+	margin:0 -20px 0 0;
+}
+
+.bot{
+	border-bottom:solid 1px #e1dcdc;
+	padding:17px 0;
+}
+
+.city{
+	width:100%;
+	position:relative;
+	border-radius:20px;
+	background:url('../img/Adler-Planetarium-Chicago-Illinois.jpg');
+	background-size:cover;
+	background-repeat:no-repeat;
+}
+
+.city:before{
+	position:absolute;
+	border-radius:20px;
+	content:"";
+	top:0;
+	left:0;
+	bottom:0;
+	right:0;
+	background:rgba(0,29,35,.4);
+}
+
+.city i{
+	position:relative;
+	color:#fff;
+	background:#438a6e;
+	padding:20px 25px;
+	font-weight:bold;
+	border-radius:50%;
+	margin:0 0 20px 0;
+	font-size:30px;
+}
+
+.city i:hover{
+	position:relative;
+	color:#438a6e;
+	transition:0.5s;
+	background:#ffffffb5;
+	padding:20px 25px;
+	font-weight:bold;
+	border-radius:50%;
+	margin-bottom:20px;
+	font-size:30px;
+}
+
+.city h1{
+	position:relative;
+	color:#fff;
+	font-weight:bold;
+	font-size:30px;
+}
+
+.city p{
+	position:relative;
+	color:#fff;
+}
+
+.city button{
+	position:relative;
+	color:#fff;
+	outline:none;
+	border:solid 2px #fff;
+	background:transparent;
+	padding:12px 60px;
+	font-weight:bold;
+	margin-top:18px;
+	border-radius:40px;
+}
+
+.city button:hover{
+	position:relative;
+	color:#fff;
+	outline:none;
+	border:none;
+	background:#438a6e;
+	padding:14px 62px;
+	font-weight:bold;
+	transition:0.6s;
+	margin-top:20px;
+	border-radius:40px;
+}
+
+.socity{
+	text-align:center;
+	margin:100px 0 ;
+}
+
+.our{
+	background:#f6f6f6;
+	padding:50px 0;
+}
+
+
+
+.section-header h1{
+	text-align:center;
+	font-weight:550;
+}
+.section-header p{
+	text-align:center;
+	margin:20px 0 0 0;
+	color:#757272;
+}
+
+.nesciunt-mete{
+	background:#fff;
+	padding:35px;
+	border-radius:10px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.nesciunt-mete i{
+	color:#000;
+	font-size:50px;
+}
+
+.nesciunt-mete h2{
+	font-weight:550;
+	margin:18px 0 0 0;
+}
+
+.nesciunt-mete p{
+	margin:10px 0 0 0;
+}
+
+.nesciunt-mete a{
+	margin:15px 0 0 0;
+	display:block;
+	color:#007d6f;
+}
+
+.meta{
+	margin-top:60px;
+}
+
+.counity{
+	margin-top:30px;
+}
+
+.clint{
+	background-color:#f1f1f1;
+	padding:40px 0px;
+}
+.say p{
+	margin-bottom:70px;
+	
+}
+.card-body img{
+	border-radius: 50%;
+	
+}
+.card-body h4{
+	text-align:center;
+	margin:25px 0px 0px 0px ;
+}
+.card-body h6{
+	text-align:center;
+	color:#8b8a88;
+	
+	
+}
+.card-body p{
+	margin-top:36px;
+	color:#8b8a88;
+}
